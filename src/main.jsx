@@ -127,8 +127,7 @@ class Todo extends React.Component {
             <input
               type="checkbox"
               id={this.props.id}
-
-              defaultChecked={this.props.todo.completed}
+              checked={this.props.todo.completed}
               onClick={this._toggleComplete.bind(this)}/>
             <button onClick={this._removeTodo.bind(this)}>
               <i class="fa fa-trash" aria-hidden="true"></i>
