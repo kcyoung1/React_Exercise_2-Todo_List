@@ -1,9 +1,8 @@
-<h1>React Exercise 2 - Todo List App</h1>
-<h2>Summary</h2>
-<p>For our second React exercise, we made a comment todo list app that allowed the user to add a todo, delete a todo, or check mark and clear the completed items.</p>
+# React Exercise 2 - Todo List App
 
-<h2>Languages and tools used:</h2>
-<ul>
-  <li>React JS</li>
-  <li>CSS</li>
-</ul>
+## Summary
+For our second React exercise, we made a comment todo list app that allowed the user to add a todo, delete a todo, or check mark and clear the completed items.
+
+## Languages and tools used:
+- React JS
+- CSS
